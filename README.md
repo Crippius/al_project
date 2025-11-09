@@ -1,4 +1,4 @@
-# al_project
+# Active Learning for Social Media Classification
 
 ## Objective
 
